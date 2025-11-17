@@ -9,15 +9,16 @@
 
 ---
 
-<!-- Banner (replace URLs after uploading images to GitHub) -->
+
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="DARK_BANNER_URL" />
-    <source media="(prefers-color-scheme: light)" srcset="LIGHT_BANNER_URL" />
-    <img src="LIGHT_BANNER_URL" alt="Dasha Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DariaDeriagina/DariaDeriagina/refs/heads/main/dark-banner.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DariaDeriagina/DariaDeriagina/refs/heads/main/light-banner.png" />
+    <img src="https://raw.githubusercontent.com/DariaDeriagina/DariaDeriagina/refs/heads/main/light-banner.png" alt="Dasha Banner" width="100%">
   </picture>
 </p>
+
 
 ---
 
